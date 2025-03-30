@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-03-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`bcb2672`](https://github.com/stdlib-js/stdlib/commit/bcb2672af46fd41da597a8fd8069e0c0bc4d580c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d5bcf91`](https://github.com/stdlib-js/stdlib/commit/d5bcf913d92286353dd37549cfed7e6ceb21d510) - **feat:** add `stats/strided/scumin` _(by Aayush Khanna)_
 
 </details>
