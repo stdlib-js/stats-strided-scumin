@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-05-19)
+## 0.1.0 (2026-01-30)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`bcb2672`](https://github.com/stdlib-js/stdlib/commit/bcb2672af46fd41da597a8fd8069e0c0bc4d580c) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d5bcf91`](https://github.com/stdlib-js/stdlib/commit/d5bcf913d92286353dd37549cfed7e6ceb21d510) - **feat:** add `stats/strided/scumin` _(by Aayush Khanna)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 
 </section>
 
